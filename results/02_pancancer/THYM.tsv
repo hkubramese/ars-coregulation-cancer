@@ -1,0 +1,2 @@
+project	n_tumours	n_ars_cyto	n_ars_mito	n_rp	n_mrp	n_atf4_trrust	purity_used	n_adjusted	ars_cyto_rho_raw	null95_raw	p_raw	ars_cyto_rho_adj	null95_adj	p_adj	ars_mito_rho_adj	rp_rho_adj	atf4_ARS_cyto	atf4_ARS_mito	atf4_RP	atf4_MRP	atf4upr_ARS_cyto	atf4_ARS_cyto_beyond_RP	status
+THYM	120	20	16	79	73	35	True	103	0.3538	0.2749	0.004995004995004995	0.1422	0.1542	0.06493506493506493	0.2374	0.6712	0.4854	0.5543	-0.5382	-0.292	0.7254	0.3851	done

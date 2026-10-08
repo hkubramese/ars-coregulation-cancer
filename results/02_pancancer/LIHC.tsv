@@ -1,0 +1,2 @@
+project	n_tumours	n_ars_cyto	n_ars_mito	n_rp	n_mrp	n_atf4_trrust	purity_used	n_adjusted	ars_cyto_rho_raw	null95_raw	p_raw	ars_cyto_rho_adj	null95_adj	p_adj	ars_mito_rho_adj	rp_rho_adj	atf4_ARS_cyto	atf4_ARS_mito	atf4_RP	atf4_MRP	atf4upr_ARS_cyto	atf4_ARS_cyto_beyond_RP	status
+LIHC	371	20	16	77	72	35	True	358	0.5009	0.2841	0.000999000999000999	0.2629	0.0941	0.000999000999000999	0.1774	0.6999	0.2879	0.0912	-0.1574	-0.0984	0.6985	0.3346	done

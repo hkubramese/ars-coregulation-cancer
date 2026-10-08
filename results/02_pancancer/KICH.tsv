@@ -1,0 +1,2 @@
+project	n_tumours	n_ars_cyto	n_ars_mito	n_rp	n_mrp	n_atf4_trrust	purity_used	n_adjusted	ars_cyto_rho_raw	null95_raw	p_raw	ars_cyto_rho_adj	null95_adj	p_adj	ars_mito_rho_adj	rp_rho_adj	atf4_ARS_cyto	atf4_ARS_mito	atf4_RP	atf4_MRP	atf4upr_ARS_cyto	atf4_ARS_cyto_beyond_RP	status
+KICH	66	20	16	77	71	35	True	66	0.6468	0.4485	0.000999000999000999	0.2955	0.2263	0.003996003996003996	0.39	0.4768	0.4036	-0.0773	-0.0811	0.1565	0.7551	0.3841	done

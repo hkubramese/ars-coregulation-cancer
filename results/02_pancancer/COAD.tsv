@@ -1,0 +1,2 @@
+project	n_tumours	n_ars_cyto	n_ars_mito	n_rp	n_mrp	n_atf4_trrust	purity_used	n_adjusted	ars_cyto_rho_raw	null95_raw	p_raw	ars_cyto_rho_adj	null95_adj	p_adj	ars_mito_rho_adj	rp_rho_adj	atf4_ARS_cyto	atf4_ARS_mito	atf4_RP	atf4_MRP	atf4upr_ARS_cyto	atf4_ARS_cyto_beyond_RP	status
+COAD	458	20	16	79	73	35	True	444	0.3812	0.1674	0.000999000999000999	0.1511	0.0796	0.000999000999000999	0.1263	0.4452	0.2828	-0.104	0.0165	-0.0211	0.585	0.2983	done

@@ -1,0 +1,2 @@
+project	n_tumours	n_ars_cyto	n_ars_mito	n_rp	n_mrp	n_atf4_trrust	purity_used	n_adjusted	ars_cyto_rho_raw	null95_raw	p_raw	ars_cyto_rho_adj	null95_adj	p_adj	ars_mito_rho_adj	rp_rho_adj	atf4_ARS_cyto	atf4_ARS_mito	atf4_RP	atf4_MRP	atf4upr_ARS_cyto	atf4_ARS_cyto_beyond_RP	status
+KIRC	533	20	16	78	73	35	True	498	0.4979	0.3933	0.000999000999000999	0.2209	0.2009	0.024975024975024976	0.2628	0.6411	0.0805	-0.1245	0.3499	0.0524	0.783	-0.0069	done

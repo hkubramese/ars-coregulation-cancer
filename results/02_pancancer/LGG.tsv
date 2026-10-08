@@ -1,0 +1,2 @@
+project	n_tumours	n_ars_cyto	n_ars_mito	n_rp	n_mrp	n_atf4_trrust	purity_used	n_adjusted	ars_cyto_rho_raw	null95_raw	p_raw	ars_cyto_rho_adj	null95_adj	p_adj	ars_mito_rho_adj	rp_rho_adj	atf4_ARS_cyto	atf4_ARS_mito	atf4_RP	atf4_MRP	atf4upr_ARS_cyto	atf4_ARS_cyto_beyond_RP	status
+LGG	516	20	16	79	73	35	True	509	0.4382	0.2572	0.000999000999000999	0.2524	0.1396	0.000999000999000999	0.147	0.6931	0.288	0.1533	0.03	0.248	0.7611	0.2877	done

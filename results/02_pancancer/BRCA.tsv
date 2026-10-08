@@ -1,0 +1,2 @@
+project	n_tumours	n_ars_cyto	n_ars_mito	n_rp	n_mrp	n_atf4_trrust	purity_used	n_adjusted	ars_cyto_rho_raw	null95_raw	p_raw	ars_cyto_rho_adj	null95_adj	p_adj	ars_mito_rho_adj	rp_rho_adj	atf4_ARS_cyto	atf4_ARS_mito	atf4_RP	atf4_MRP	atf4upr_ARS_cyto	atf4_ARS_cyto_beyond_RP	status
+BRCA	1095	20	16	79	73	35	True	1046	0.3126	0.1843	0.000999000999000999	0.1358	0.1385	0.056943056943056944	0.165	0.5493	0.2633	0.1141	0.1601	0.1202	0.6719	0.2349	done

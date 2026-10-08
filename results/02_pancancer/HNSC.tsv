@@ -1,0 +1,2 @@
+project	n_tumours	n_ars_cyto	n_ars_mito	n_rp	n_mrp	n_atf4_trrust	purity_used	n_adjusted	ars_cyto_rho_raw	null95_raw	p_raw	ars_cyto_rho_adj	null95_adj	p_adj	ars_mito_rho_adj	rp_rho_adj	atf4_ARS_cyto	atf4_ARS_mito	atf4_RP	atf4_MRP	atf4upr_ARS_cyto	atf4_ARS_cyto_beyond_RP	status
+HNSC	520	20	16	80	71	35	True	507	0.333	0.2168	0.000999000999000999	0.139	0.0764	0.001998001998001998	0.0907	0.5949	0.1982	0.235	0.1248	0.1523	0.5071	0.168	done

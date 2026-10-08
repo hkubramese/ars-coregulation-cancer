@@ -1,0 +1,3 @@
+project	status	n_tumours
+CHOL	skipped_n<50	35
+DLBC	skipped_n<50	48

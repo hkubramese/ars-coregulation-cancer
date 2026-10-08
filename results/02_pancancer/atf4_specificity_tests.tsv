@@ -1,0 +1,5 @@
+test	median_difference	cancers_where_first_is_higher	wilcoxon_p
+Q2: ARS_cyto vs ARS_mito	0.197	29/31	3.259629011154175e-09
+Q3: ARS_cyto vs RP	0.266	27/31	3.0547380447387695e-06
+ATF4 link left beyond RP (median rho)	0.288	29/31 positive	
+Sensitivity: ATF4 (UPR) vs ARS_cyto (median rho)	0.678	31/31 positive	

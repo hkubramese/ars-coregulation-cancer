@@ -1,0 +1,2 @@
+project	n_tumours	n_ars_cyto	n_ars_mito	n_rp	n_mrp	n_atf4_trrust	purity_used	n_adjusted	ars_cyto_rho_raw	null95_raw	p_raw	ars_cyto_rho_adj	null95_adj	p_adj	ars_mito_rho_adj	rp_rho_adj	atf4_ARS_cyto	atf4_ARS_mito	atf4_RP	atf4_MRP	atf4upr_ARS_cyto	atf4_ARS_cyto_beyond_RP	status
+TGCT	150	20	16	81	73	35	True	149	0.5417	0.2675	0.000999000999000999	0.3025	0.0755	0.000999000999000999	0.1571	0.5185	0.3436	-0.1728	-0.0905	0.2911	0.3335	0.4289	done

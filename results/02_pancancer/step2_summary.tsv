@@ -1,0 +1,13 @@
+metric	value
+cancer_types_analysed	31
+cancer_types_excluded	2
+tumours_analysed_total	9447
+cancer_types_with_purity_adjustment	31
+Q1_coexpressed_FDR<0.05	29/31
+median_ars_cyto_rho_adj	0.186
+median_atf4_ARS_cyto	0.274
+median_atf4_ARS_mito	0.065
+median_atf4_RP	0.005
+Q2_wilcoxon_p_cyto_gt_mito	3.3e-09
+Q3_wilcoxon_p_cyto_gt_RP	3.1e-06
+median_atf4_ARS_cyto_beyond_RP	0.288

@@ -1,0 +1,2 @@
+project	n_tumours	n_ars_cyto	n_ars_mito	n_rp	n_mrp	n_atf4_trrust	purity_used	n_adjusted	ars_cyto_rho_raw	null95_raw	p_raw	ars_cyto_rho_adj	null95_adj	p_adj	ars_mito_rho_adj	rp_rho_adj	atf4_ARS_cyto	atf4_ARS_mito	atf4_RP	atf4_MRP	atf4upr_ARS_cyto	atf4_ARS_cyto_beyond_RP	status
+GBM	156	20	16	79	73	35	True	146	0.4461	0.1843	0.000999000999000999	0.1986	0.1025	0.001998001998001998	0.1346	0.6887	0.2847	0.0615	0.1363	0.0265	0.676	0.288	done
