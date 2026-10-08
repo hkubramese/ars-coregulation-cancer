@@ -1,0 +1,4 @@
+ROLE	PATH	SIZE_MB	URL
+expression_tpm	/content/ARS_pilot_LUAD/data/TCGA-LUAD.star_tpm.tsv.gz	168.46	https://gdc-hub.s3.us-east-1.amazonaws.com/download/TCGA-LUAD.star_tpm.tsv.gz
+id_gene_mapping	/content/ARS_pilot_LUAD/data/gencode.v36.annotation.gtf.gene.probemap	3.21	https://gdc-hub.s3.us-east-1.amazonaws.com/download/gencode.v36.annotation.gtf.gene.probemap
+phenotype	/content/ARS_pilot_LUAD/data/TCGA-LUAD.clinical.tsv.gz	0.15	https://gdc-hub.s3.us-east-1.amazonaws.com/download/TCGA-LUAD.clinical.tsv.gz
