@@ -1,0 +1,11 @@
+# Raw and downloaded data are never committed (they are re-downloaded from the source)
+data/*
+!data/README.md
+*.tsv.gz
+*.bam
+*.bai
+
+# Notebook and system files
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
