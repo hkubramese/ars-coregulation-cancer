@@ -1,0 +1,12 @@
+metric	value
+cohort	TCGA-LUAD primary tumours
+n_tumours	516
+n_cytoplasmic_ARS_tested	20
+median_rho_raw	0.358
+null_95th_percentile_raw	0.182
+empirical_p_raw	0.001
+median_rho_prolif_adjusted	0.261
+null_95th_percentile_adjusted	0.164
+empirical_p_adjusted	0.001
+rho_ARS_cyto_vs_ATF4_adjusted	0.311
+rho_ARS_mito_vs_ATF4_adjusted	0.131
