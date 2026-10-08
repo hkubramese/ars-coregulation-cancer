@@ -9,7 +9,7 @@ This repository contains all code for the analysis behind a planned bioRxiv prep
 | Step | Notebook | Status |
 | --- | --- | --- |
 | 1. Feasibility pilot (TCGA-LUAD) | `notebooks/01_feasibility_pilot.ipynb` | Done (decision: A) |
-| 2. Pan-cancer co-expression | `notebooks/02_pancancer_coexpression.ipynb` | Planned |
+| 2. Pan-cancer co-expression | `notebooks/02_pancancer_coexpression.ipynb` | Done (decision: A) |
 | 3. ATF4 / ISR association | `notebooks/03_atf4_signature.ipynb` | Planned |
 | 4. Differential expression (DESeq2) and enrichment (clusterProfiler) | `notebooks/04_differential_expression.ipynb` | Planned |
 | 5. Chromatin layer (TCGA ATAC-seq, ENCODE ATF4 ChIP-seq) | `notebooks/05_chromatin.ipynb` | Planned |
